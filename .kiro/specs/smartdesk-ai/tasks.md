@@ -1,0 +1,25 @@
+# Tasks – SmartDesk AI
+
+- [x] 1. Definir problema, alcance y requisitos principales.
+- [x] 2. Crear artefacto Requirements.
+- [x] 3. Crear diseño y diagrama de arquitectura.
+- [x] 4. Descomponer el proyecto en tareas implementables.
+- [x] 5. Configurar backend FastAPI.
+- [x] 6. Configurar SQLite y SQLAlchemy.
+- [x] 7. Implementar entidad Ticket.
+- [x] 8. Implementar endpoint POST `/api/v1/tickets`.
+- [x] 9. Implementar endpoint GET `/api/v1/tickets`.
+- [x] 10. Implementar endpoint PATCH `/api/v1/tickets/{id}`.
+- [x] 11. Crear dataset académico de entrenamiento.
+- [x] 12. Implementar clasificador de categoría.
+- [x] 13. Implementar clasificador de prioridad.
+- [x] 14. Implementar cálculo de confianza y revisión manual.
+- [x] 15. Integrar IA con Ticket Service.
+- [x] 16. Crear frontend React.
+- [x] 17. Crear prueba unitaria del clasificador.
+- [x] 18. Crear prueba de integración de la API.
+- [x] 19. Documentar arquitectura y pruebas.
+- [x] 20. Completar README.
+- [ ] 21. Crear ramas remotas en GitHub.
+- [ ] 22. Publicar commits descriptivos por rama.
+- [ ] 23. Crear Pull Requests y fusionarlos siguiendo el flujo acordado.

@@ -1,0 +1,37 @@
+text,category,priority
+"No puedo iniciar sesión y mi contraseña fue bloqueada",Acceso,Alta
+"Olvidé mi contraseña del sistema",Acceso,Media
+"Mi usuario aparece deshabilitado",Acceso,Alta
+"Necesito restablecer la clave de mi cuenta",Acceso,Media
+"No tengo permisos para ingresar al módulo",Acceso,Media
+"El sistema rechaza mis credenciales",Acceso,Alta
+"La aplicación se cierra al guardar",Soporte técnico,Alta
+"La pantalla queda en blanco al abrir el sistema",Soporte técnico,Alta
+"La impresora no responde desde la aplicación",Soporte técnico,Media
+"El sistema está muy lento esta mañana",Soporte técnico,Media
+"Aparece un error 500 al generar el reporte",Soporte técnico,Alta
+"Necesito ayuda para configurar el programa",Soporte técnico,Baja
+"La factura tiene un monto incorrecto",Facturación,Alta
+"Necesito una copia de mi factura",Facturación,Baja
+"No recibí la factura de este mes",Facturación,Media
+"Quiero actualizar los datos de facturación",Facturación,Media
+"Se realizó un cobro duplicado",Facturación,Alta
+"Consulta sobre fecha de vencimiento de factura",Facturación,Baja
+"Quiero conocer los planes disponibles",Comercial,Baja
+"Necesito una cotización para veinte usuarios",Comercial,Media
+"Deseo contratar un plan empresarial",Comercial,Media
+"Solicito información sobre descuentos",Comercial,Baja
+"Quiero ampliar la cantidad de licencias",Comercial,Media
+"Necesito hablar con un asesor comercial",Comercial,Baja
+"Solicito actualizar mis datos institucionales",Administrativo,Baja
+"Necesito cambiar el responsable de la cuenta",Administrativo,Media
+"Solicito certificado de servicio",Administrativo,Baja
+"Debo registrar una nueva sucursal",Administrativo,Media
+"Necesito modificar datos legales de la empresa",Administrativo,Media
+"Solicito baja administrativa del servicio",Administrativo,Alta
+"Quiero hacer una consulta general",Otros,Baja
+"Tengo una sugerencia para mejorar el servicio",Otros,Baja
+"Deseo reportar una observación sin urgencia",Otros,Baja
+"Necesito orientación sobre dónde enviar una solicitud",Otros,Baja
+"Consulta sobre horarios de atención",Otros,Baja
+"Tengo una duda que no corresponde a las opciones anteriores",Otros,Baja
